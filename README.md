@@ -2,4 +2,4 @@
 
 Don't ask for M0Client 2.0 relese date!!
 
-Don't ask for M0Client 1.1 update e.t.c...
+Don't ask for M0Client 1.1 update e.t.c... (probably never)

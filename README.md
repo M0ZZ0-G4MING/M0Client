@@ -1,2 +1,5 @@
-# M0Client
-Witaj w repozytorium z wersjami mojej modyfikacji do Minecraft (M0Client)
+# M0Client 2.0 SOON!!!
+
+Don't ask for M0Client 2.0 relese date!!
+
+Don't ask for M0Client 1.1 etc...
